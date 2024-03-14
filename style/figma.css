@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+
+.container{
+     background-image: url(../images/hero\ image.png);
+     width: 1440px;
+     height: 800px;
+}
+ .header-icon{
+    width: 100px;
+    height: 67.96px;
+    margin-top: 50px;
+    margin-left: 165px;
+ }
+.header-text{
+
+}
+
+.header-text-one{
+ color: white;
+width: 68px;
+height: 19px;
+margin-top: 74px;
+margin-left: 533px;
+}
+
+.header-text-two{
+    color: white;
+width: 47px;
+height: 19px;
+margin-left: 624px;
+margin-top: 74px;
+}
+
+.header-text-three{
+    color: white;
+    width: 45px;
+    height: 19px;
+    top: 74px;
+    left: 691px;
+}
+
+.header-text-four{
+    color: white;
+    width: 49px;
+height: 19px;
+top: 74px;
+left: 761px;
+
+}
+
+.header-phone{
+    width: 23px;
+    height: 23px;
+    margin-top: 57px;
+    margin-left: 911px;
+}
+
